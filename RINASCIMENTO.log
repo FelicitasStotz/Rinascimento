@@ -1,0 +1,1572 @@
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2013.9.15)  19 SEP 2013 19:09
+entering extended mode
+ %&-line parsing enabled.
+**RINASCIMENTO.tex
+(./RINASCIMENTO.tex
+LaTeX2e <2009/09/24>
+Babel <v3.8l> and hyphenation patterns for english, usenglishmax, dumylang, noh
+yphenation, ngerman, german, german-x-2009-06-19, ngerman-x-2009-06-19, loaded.
+
+(/usr/share/texmf-texlive/tex/latex/base/book.cls
+Document Class: book 2007/10/19 v1.4h Standard LaTeX document class
+(/usr/share/texmf-texlive/tex/latex/base/bk10.clo
+File: bk10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/share/texmf-texlive/tex/generic/babel/babel.sty
+Package: babel 2008/07/06 v3.8l The Babel package
+
+(/usr/share/texmf-texlive/tex/generic/babel/ngermanb.ldf
+Language: ngermanb 2008/07/06 v2.6n new German support from the babel system
+
+(/usr/share/texmf-texlive/tex/generic/babel/babel.def
+File: babel.def 2008/07/06 v3.8l Babel common definitions
+\babel@savecnt=\count88
+\U@D=\dimen103
+)
+\l@naustrian = a dialect from \language\l@ngerman 
+Package babel Info: Making " an active character on input line 92.
+))
+(/usr/share/texmf-texlive/tex/latex/base/inputenc.sty
+Package: inputenc 2008/03/30 v1.1d Input encoding file
+\inpenc@prehook=\toks14
+\inpenc@posthook=\toks15
+
+(/usr/share/texmf-texlive/tex/latex/base/utf8.def
+File: utf8.def 2008/04/05 v1.1m UTF-8 support for inputenc
+Now handling font encoding OML ...
+... no UTF-8 mapping file for font encoding OML
+Now handling font encoding T1 ...
+... processing UTF-8 mapping file for font encoding T1
+
+(/usr/share/texmf-texlive/tex/latex/base/t1enc.dfu
+File: t1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
+   defining Unicode char U+00A1 (decimal 161)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00AB (decimal 171)
+   defining Unicode char U+00BB (decimal 187)
+   defining Unicode char U+00BF (decimal 191)
+   defining Unicode char U+00C0 (decimal 192)
+   defining Unicode char U+00C1 (decimal 193)
+   defining Unicode char U+00C2 (decimal 194)
+   defining Unicode char U+00C3 (decimal 195)
+   defining Unicode char U+00C4 (decimal 196)
+   defining Unicode char U+00C5 (decimal 197)
+   defining Unicode char U+00C6 (decimal 198)
+   defining Unicode char U+00C7 (decimal 199)
+   defining Unicode char U+00C8 (decimal 200)
+   defining Unicode char U+00C9 (decimal 201)
+   defining Unicode char U+00CA (decimal 202)
+   defining Unicode char U+00CB (decimal 203)
+   defining Unicode char U+00CC (decimal 204)
+   defining Unicode char U+00CD (decimal 205)
+   defining Unicode char U+00CE (decimal 206)
+   defining Unicode char U+00CF (decimal 207)
+   defining Unicode char U+00D0 (decimal 208)
+   defining Unicode char U+00D1 (decimal 209)
+   defining Unicode char U+00D2 (decimal 210)
+   defining Unicode char U+00D3 (decimal 211)
+   defining Unicode char U+00D4 (decimal 212)
+   defining Unicode char U+00D5 (decimal 213)
+   defining Unicode char U+00D6 (decimal 214)
+   defining Unicode char U+00D8 (decimal 216)
+   defining Unicode char U+00D9 (decimal 217)
+   defining Unicode char U+00DA (decimal 218)
+   defining Unicode char U+00DB (decimal 219)
+   defining Unicode char U+00DC (decimal 220)
+   defining Unicode char U+00DD (decimal 221)
+   defining Unicode char U+00DE (decimal 222)
+   defining Unicode char U+00DF (decimal 223)
+   defining Unicode char U+00E0 (decimal 224)
+   defining Unicode char U+00E1 (decimal 225)
+   defining Unicode char U+00E2 (decimal 226)
+   defining Unicode char U+00E3 (decimal 227)
+   defining Unicode char U+00E4 (decimal 228)
+   defining Unicode char U+00E5 (decimal 229)
+   defining Unicode char U+00E6 (decimal 230)
+   defining Unicode char U+00E7 (decimal 231)
+   defining Unicode char U+00E8 (decimal 232)
+   defining Unicode char U+00E9 (decimal 233)
+   defining Unicode char U+00EA (decimal 234)
+   defining Unicode char U+00EB (decimal 235)
+   defining Unicode char U+00EC (decimal 236)
+   defining Unicode char U+00ED (decimal 237)
+   defining Unicode char U+00EE (decimal 238)
+   defining Unicode char U+00EF (decimal 239)
+   defining Unicode char U+00F0 (decimal 240)
+   defining Unicode char U+00F1 (decimal 241)
+   defining Unicode char U+00F2 (decimal 242)
+   defining Unicode char U+00F3 (decimal 243)
+   defining Unicode char U+00F4 (decimal 244)
+   defining Unicode char U+00F5 (decimal 245)
+   defining Unicode char U+00F6 (decimal 246)
+   defining Unicode char U+00F8 (decimal 248)
+   defining Unicode char U+00F9 (decimal 249)
+   defining Unicode char U+00FA (decimal 250)
+   defining Unicode char U+00FB (decimal 251)
+   defining Unicode char U+00FC (decimal 252)
+   defining Unicode char U+00FD (decimal 253)
+   defining Unicode char U+00FE (decimal 254)
+   defining Unicode char U+00FF (decimal 255)
+   defining Unicode char U+0102 (decimal 258)
+   defining Unicode char U+0103 (decimal 259)
+   defining Unicode char U+0104 (decimal 260)
+   defining Unicode char U+0105 (decimal 261)
+   defining Unicode char U+0106 (decimal 262)
+   defining Unicode char U+0107 (decimal 263)
+   defining Unicode char U+010C (decimal 268)
+   defining Unicode char U+010D (decimal 269)
+   defining Unicode char U+010E (decimal 270)
+   defining Unicode char U+010F (decimal 271)
+   defining Unicode char U+0110 (decimal 272)
+   defining Unicode char U+0111 (decimal 273)
+   defining Unicode char U+0118 (decimal 280)
+   defining Unicode char U+0119 (decimal 281)
+   defining Unicode char U+011A (decimal 282)
+   defining Unicode char U+011B (decimal 283)
+   defining Unicode char U+011E (decimal 286)
+   defining Unicode char U+011F (decimal 287)
+   defining Unicode char U+0130 (decimal 304)
+   defining Unicode char U+0131 (decimal 305)
+   defining Unicode char U+0132 (decimal 306)
+   defining Unicode char U+0133 (decimal 307)
+   defining Unicode char U+0139 (decimal 313)
+   defining Unicode char U+013A (decimal 314)
+   defining Unicode char U+013D (decimal 317)
+   defining Unicode char U+013E (decimal 318)
+   defining Unicode char U+0141 (decimal 321)
+   defining Unicode char U+0142 (decimal 322)
+   defining Unicode char U+0143 (decimal 323)
+   defining Unicode char U+0144 (decimal 324)
+   defining Unicode char U+0147 (decimal 327)
+   defining Unicode char U+0148 (decimal 328)
+   defining Unicode char U+014A (decimal 330)
+   defining Unicode char U+014B (decimal 331)
+   defining Unicode char U+0150 (decimal 336)
+   defining Unicode char U+0151 (decimal 337)
+   defining Unicode char U+0152 (decimal 338)
+   defining Unicode char U+0153 (decimal 339)
+   defining Unicode char U+0154 (decimal 340)
+   defining Unicode char U+0155 (decimal 341)
+   defining Unicode char U+0158 (decimal 344)
+   defining Unicode char U+0159 (decimal 345)
+   defining Unicode char U+015A (decimal 346)
+   defining Unicode char U+015B (decimal 347)
+   defining Unicode char U+015E (decimal 350)
+   defining Unicode char U+015F (decimal 351)
+   defining Unicode char U+0160 (decimal 352)
+   defining Unicode char U+0161 (decimal 353)
+   defining Unicode char U+0162 (decimal 354)
+   defining Unicode char U+0163 (decimal 355)
+   defining Unicode char U+0164 (decimal 356)
+   defining Unicode char U+0165 (decimal 357)
+   defining Unicode char U+016E (decimal 366)
+   defining Unicode char U+016F (decimal 367)
+   defining Unicode char U+0170 (decimal 368)
+   defining Unicode char U+0171 (decimal 369)
+   defining Unicode char U+0178 (decimal 376)
+   defining Unicode char U+0179 (decimal 377)
+   defining Unicode char U+017A (decimal 378)
+   defining Unicode char U+017B (decimal 379)
+   defining Unicode char U+017C (decimal 380)
+   defining Unicode char U+017D (decimal 381)
+   defining Unicode char U+017E (decimal 382)
+   defining Unicode char U+200C (decimal 8204)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201A (decimal 8218)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+   defining Unicode char U+201E (decimal 8222)
+   defining Unicode char U+2030 (decimal 8240)
+   defining Unicode char U+2031 (decimal 8241)
+   defining Unicode char U+2039 (decimal 8249)
+   defining Unicode char U+203A (decimal 8250)
+   defining Unicode char U+2423 (decimal 9251)
+)
+Now handling font encoding OT1 ...
+... processing UTF-8 mapping file for font encoding OT1
+
+(/usr/share/texmf-texlive/tex/latex/base/ot1enc.dfu
+File: ot1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
+   defining Unicode char U+00A1 (decimal 161)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00B8 (decimal 184)
+   defining Unicode char U+00BF (decimal 191)
+   defining Unicode char U+00C5 (decimal 197)
+   defining Unicode char U+00C6 (decimal 198)
+   defining Unicode char U+00D8 (decimal 216)
+   defining Unicode char U+00DF (decimal 223)
+   defining Unicode char U+00E6 (decimal 230)
+   defining Unicode char U+00EC (decimal 236)
+   defining Unicode char U+00ED (decimal 237)
+   defining Unicode char U+00EE (decimal 238)
+   defining Unicode char U+00EF (decimal 239)
+   defining Unicode char U+00F8 (decimal 248)
+   defining Unicode char U+0131 (decimal 305)
+   defining Unicode char U+0141 (decimal 321)
+   defining Unicode char U+0142 (decimal 322)
+   defining Unicode char U+0152 (decimal 338)
+   defining Unicode char U+0153 (decimal 339)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+)
+Now handling font encoding OMS ...
+... processing UTF-8 mapping file for font encoding OMS
+
+(/usr/share/texmf-texlive/tex/latex/base/omsenc.dfu
+File: omsenc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
+   defining Unicode char U+00A7 (decimal 167)
+   defining Unicode char U+00B6 (decimal 182)
+   defining Unicode char U+00B7 (decimal 183)
+   defining Unicode char U+2020 (decimal 8224)
+   defining Unicode char U+2021 (decimal 8225)
+   defining Unicode char U+2022 (decimal 8226)
+)
+Now handling font encoding OMX ...
+... no UTF-8 mapping file for font encoding OMX
+Now handling font encoding U ...
+... no UTF-8 mapping file for font encoding U
+   defining Unicode char U+00A9 (decimal 169)
+   defining Unicode char U+00AA (decimal 170)
+   defining Unicode char U+00AE (decimal 174)
+   defining Unicode char U+00BA (decimal 186)
+   defining Unicode char U+02C6 (decimal 710)
+   defining Unicode char U+02DC (decimal 732)
+   defining Unicode char U+200C (decimal 8204)
+   defining Unicode char U+2026 (decimal 8230)
+   defining Unicode char U+2122 (decimal 8482)
+   defining Unicode char U+2423 (decimal 9251)
+))
+(/usr/share/texmf-texlive/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf-texlive/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+(/usr/share/texmf-texlive/tex/latex/graphics/graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf-texlive/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/etc/texmf/tex/latex/config/graphics.cfg
+File: graphics.cfg 2009/08/28 v1.8 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+(/usr/share/texmf-texlive/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2010/03/12 v0.04p Graphics/color for pdfTeX
+\Gread@gobject=\count89
+))
+\Gin@req@height=\dimen104
+\Gin@req@width=\dimen105
+)
+(/usr/share/texmf-texlive/tex/latex/geometry/geometry.sty
+Package: geometry 2008/12/21 v4.2 Page Geometry
+
+(/usr/share/texmf-texlive/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2009/04/10 v2.0 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in pdf mode detected.
+)
+(/usr/share/texmf-texlive/tex/generic/oberdiek/ifvtex.sty
+Package: ifvtex 2008/11/04 v1.4 Switches for detecting VTeX and its modes (HO)
+Package ifvtex Info: VTeX not detected.
+)
+\Gm@cnth=\count90
+\Gm@cntv=\count91
+\c@Gm@tempcnt=\count92
+\Gm@bindingoffset=\dimen106
+\Gm@wd@mp=\dimen107
+\Gm@odd@mp=\dimen108
+\Gm@even@mp=\dimen109
+\Gm@dimlist=\toks17
+
+(/usr/share/texmf-texlive/tex/xelatex/xetexconfig/geometry.cfg))
+(/usr/share/texmf-texlive/tex/latex/pstricks/pstricks.sty
+Package: pstricks 2008/11/26 v0.40 LaTeX wrapper for `PSTricks' (RN,HV)
+
+(/usr/share/texmf-texlive/tex/generic/pstricks/pstricks.tex
+`PSTricks' v1.29  <2009/05/19> (tvz)
+\pst@dima=\dimen110
+\pst@dimb=\dimen111
+\pst@dimc=\dimen112
+\pst@dimd=\dimen113
+\pst@dimg=\dimen114
+\pst@dimh=\dimen115
+\pst@hbox=\box26
+\pst@boxg=\box27
+\pst@cnta=\count93
+\pst@cntb=\count94
+\pst@cntc=\count95
+\pst@cntd=\count96
+\pst@cntg=\count97
+\pst@cnth=\count98
+\pst@toks=\toks18
+(/usr/share/texmf-texlive/tex/generic/pstricks/pstricks.con)
+\psunit=\dimen116
+\psxunit=\dimen117
+\psyunit=\dimen118
+\pslinewidth=\dimen119
+\pst@customdefs=\toks19
+\pslinearc=\dimen120
+\everypsbox=\toks20
+\psframesep=\dimen121
+\pslabelsep=\dimen122
+\pst@shift=\dimen123
+\theoverlaybox=\box28
+)
+File: pstricks.tex 2009/05/19 v1.29 `PSTricks' (tvz,hv)
+
+(/usr/share/texmf/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
+
+(/etc/texmf/tex/latex/config/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1337.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1341.
+Package xcolor Info: Model `RGB' extended on input line 1353.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1355.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1356.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1357.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
+)) (./RINASCIMENTO.aux)
+\openout1 = `RINASCIMENTO.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+
+(/usr/share/texmf-texlive/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count99
+\scratchdimen=\dimen124
+\scratchbox=\box29
+\nofMPsegments=\count100
+\nofMParguments=\count101
+\everyMPshowfont=\toks21
+\MPscratchCnt=\count102
+\MPscratchDim=\dimen125
+\MPnumerator=\count103
+\everyMPtoPDFconversion=\toks22
+)
+*geometry auto-detecting driver*
+*geometry detected driver: pdftex*
+-------------------- Geometry parameters
+paper: a5paper
+landscape: --
+twocolumn: --
+twoside: true
+asymmetric: --
+h-parts: 71.13188pt, 293.0634pt, 56.9055pt
+v-parts: 56.9055pt, 441.01773pt, 99.58464pt
+hmarginratio: --
+vmarginratio: --
+lines: --
+heightrounded: --
+bindingoffset: 0.0pt
+truedimen: --
+includehead: --
+includefoot: --
+includemp: --
+driver: pdftex
+-------------------- Page layout dimensions and switches
+\paperwidth  421.10078pt
+\paperheight 597.50787pt
+\textwidth  293.0634pt
+\textheight 441.01773pt
+\oddsidemargin  -1.1381pt
+\evensidemargin -15.36449pt
+\topmargin  -45.43198pt
+\headheight 12.0pt
+\headsep    18.06749pt
+\footskip   25.29494pt
+\marginparwidth 51.0pt
+\marginparsep   7.0pt
+\columnsep  10.0pt
+\skip\footins  9.0pt plus 4.0pt minus 2.0pt
+\hoffset 0.0pt
+\voffset 0.0pt
+\mag 1000
+\@twosidetrue \@mparswitchtrue 
+(1in=72.27pt, 1cm=28.45pt)
+-----------------------
+LaTeX Font Info:    Try loading font information for OT1+ppl on input line 38.
+(/usr/share/texmf-texlive/tex/latex/psnfss/ot1ppl.fd
+File: ot1ppl.fd 2001/06/04 font definitions for OT1/ppl.
+)
+<mitz1.jpg, id=1, 1445.4pt x 1927.2pt>
+File: mitz1.jpg Graphic file (type jpg)
+ <use mitz1.jpg> [1
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./mitz1.jpg>] [2
+
+] [3] [4
+
+] [5]
+Overfull \hbox (1.5134pt too wide) in paragraph at lines 110--111
+[]\OT1/ppl/m/n/10 Dabei ist es nicht schwer sich zu er-in-nern. Wir er-in-nern 
+uns st[]andig,
+ []
+
+
+Overfull \hbox (3.17375pt too wide) in paragraph at lines 118--119
+[]\OT1/ppl/m/n/10 Alles ist Ma-ya! Ma-ya, die gros-se Il-lu-si-on. Trug- und Wa
+hr-bild. Thea-
+ []
+
+[6] [7
+
+] [8]
+Overfull \hbox (7.18367pt too wide) in paragraph at lines 139--140
+\OT1/ppl/m/n/10 und zwi-schen den Bei-nen sp[]urt Jo-han-na das wei-che Glied d
+es Freun-
+ []
+
+[9] [10]
+Overfull \hbox (7.41345pt too wide) in paragraph at lines 177--178
+\OT1/ppl/m/n/10 gibt das fla-che Land grossz[]ugig die Him-mels-kup-pel frei. E
+i-ne gr[]unes
+ []
+
+
+Overfull \hbox (0.81375pt too wide) in paragraph at lines 179--180
+[]\OT1/ppl/m/n/10 Eine aqua-rel-li-ge Nass-in-Nass Land-schaft, do-mi-niert von
+ den Him-
+ []
+
+[11]
+Overfull \hbox (2.46333pt too wide) in paragraph at lines 192--193
+\OT1/ppl/m/n/10 sie und rie-sig. Es ist ei-ne sum-men-de, brum-men-de, vi-brie-
+ren-de Welt.
+ []
+
+
+Overfull \hbox (3.5033pt too wide) in paragraph at lines 194--195
+\OT1/ppl/m/n/10 Win-kel der Werk-hal-le schleicht, es, trotz Be-leuch-tung, dun
+k-ler wird,
+ []
+
+
+Overfull \hbox (8.32321pt too wide) in paragraph at lines 194--195
+\OT1/ppl/m/n/10 die F[]usse auf dem Lauf-git-ter einen mehr-stim-mi-gen, fe-der
+n-den Klang
+ []
+
+[12]
+Overfull \hbox (1.79326pt too wide) in paragraph at lines 196--198
+[]\OT1/ppl/m/n/10 Fasziniert be-ob-ach-tet Jo-han-na, w[]ahrend sie sich er-neu
+t an schleicht,
+ []
+
+
+Overfull \hbox (4.80255pt too wide) in paragraph at lines 218--219
+\OT1/ppl/m/n/10 lan-ge pro-biert und ver-schie-de-nes ge-tes-tet, sie ist gl[]u
+cklich und stolz,
+ []
+
+
+Underfull \vbox (badness 1194) has occurred while \output is active []
+
+ [13]
+Overfull \hbox (0.86389pt too wide) in paragraph at lines 229--231
+\OT1/ppl/m/n/10 Span-nung, wie gross wird der Hau-fen, der als n[]achstes her-a
+bst[]urzt,
+ []
+
+[14]
+Overfull \hbox (8.93384pt too wide) in paragraph at lines 232--233
+[]\OT1/ppl/m/n/10 Es ist ei-ne Fra-ge des K[]onnens, den Hau-fen, der hoch-ge-f
+ah-ren kommt,
+ []
+
+
+Overfull \hbox (12.73381pt too wide) in paragraph at lines 234--235
+[]\OT1/ppl/m/n/10 Im In-ne-ren des Stalls fres-sen die K[]uhe ga-send ihr Abend
+-heu, w[]ahrend
+ []
+
+
+Overfull \hbox (5.31319pt too wide) in paragraph at lines 247--248
+\OT1/ppl/m/n/10 nicht nach-ste-hen. Ein Mo-ment hebt sich der K[]orper em-por, 
+schwingt
+ []
+
+
+Overfull \hbox (0.30333pt too wide) in paragraph at lines 247--248
+\OT1/ppl/m/n/10 ge-nug be-kom-men und h[]oher, h[]oher...Der Auf-prall staucht 
+die Bei-
+ []
+
+
+Overfull \hbox (6.51338pt too wide) in paragraph at lines 247--248
+\OT1/ppl/m/n/10 schleu-dert, wenn sich der Leib fes-ter und fes-ter nach dem H[
+]ohenflug
+ []
+
+[15]
+Overfull \hbox (1.67274pt too wide) in paragraph at lines 249--250
+[]\OT1/ppl/m/n/10 Conny springt. Bleibt lie-gen. Jo-han-na klet-tert schnell he
+r-un-ter. Con-
+ []
+
+
+Overfull \hbox (0.22354pt too wide) in paragraph at lines 262--263
+\OT1/ppl/m/n/10 Kreu-zung kommt das kur-vi-ge St[]uck. Jo-han-na f[]urchtet sic
+h vor dem
+ []
+
+[16] [17]
+Overfull \hbox (29.45291pt too wide) in paragraph at lines 282--284
+[]\OT1/ppl/m/n/10 Johanna kommt es vor wie ei-ne Ewig-keit, die sie al-lei-ne a
+m K[]uchenfenster
+ []
+
+
+Overfull \hbox (39.0128pt too wide) in paragraph at lines 288--289
+\OT1/ppl/m/n/10 ben...Widerwillig ver-schwin-det das ro-te Tier einen Rest Wut 
+zur[]ucklassend
+ []
+
+[18]
+Overfull \hbox (1.46356pt too wide) in paragraph at lines 314--315
+\OT1/ppl/m/n/10 w[]ahrend die W[]urmer mei-nen K[]orper fres-sen und ich nicht 
+tr[]aumen
+ []
+
+[19] [20]
+Overfull \hbox (31.9329pt too wide) in paragraph at lines 345--346
+[]\OT1/ppl/m/n/10 Dann kommt Sil-via, die Toch-ter von der stren-gen Aus-hilfs-
+kin-derg[]artnerin,
+ []
+
+
+Overfull \hbox (7.30309pt too wide) in paragraph at lines 345--346
+\OT1/ppl/m/n/10 die nur zu ih-rer Toch-ter nett ist und al-le an-de-ren Kin-der
+ aus-schimpft.
+ []
+
+
+Overfull \hbox (11.9033pt too wide) in paragraph at lines 353--355
+\OT1/ppl/m/n/10 derg[]artnerin hilf-los an. []Ich zeig`dir wie es geht.\ Die Ki
+n-derg[]artnerin
+ []
+
+
+Overfull \hbox (2.06311pt too wide) in paragraph at lines 353--355
+\OT1/ppl/m/n/10 schl[]agt die H[]ande vor ihr Ge-sicht und gibt schluch-zen-de 
+Ger[]ausche
+ []
+
+
+Overfull \hbox (9.9427pt too wide) in paragraph at lines 353--355
+\OT1/ppl/m/n/10 ver[]andert. Sie f[]uhlt ihn st[]arker und st[]arker, gleich-ze
+i-tig ver-schwimmt
+ []
+
+[21]
+Overfull \hbox (16.50359pt too wide) in paragraph at lines 358--359
+\OT1/ppl/m/n/10 Dornr[]oschen. Sie weiss, dass die Kin-derg[]artnerin sie zum D
+ornr[]oschen
+ []
+
+[22]
+Overfull \hbox (0.6826pt too wide) in paragraph at lines 368--369
+\OT1/ppl/m/n/10 der Holz-soh-le, die al-le tra-gen. Sie bit-telt und bet-telt u
+nd tats[]achlich.
+ []
+
+
+Overfull \hbox (16.35316pt too wide) in paragraph at lines 372--373
+\OT1/ppl/m/n/10 mas-sa-ge, die der Kn[]ochel []uber Wo-chen be-kommt, Ge-le-gen
+-heit dar[]uber
+ []
+
+[23] [24]
+Overfull \hbox (2.29356pt too wide) in paragraph at lines 390--391
+\OT1/ppl/m/n/10 M[]adchen schimpft und dann vom Hei-ko einen R[]uffel kriegt ma
+nch-
+ []
+
+[25]
+Overfull \hbox (12.30284pt too wide) in paragraph at lines 402--402
+[]\OT1/cmr/bx/n/14.4 Il fi-co I (Lan-des-mu-se-um Schleswig-Holstein,
+ []
+
+
+Overfull \hbox (4.57281pt too wide) in paragraph at lines 416--418
+[]\OT1/ppl/m/it/10 Sie tr^^?agt mich mit sich nach Hau-se und ich neh-me sie mi
+t je-de Nacht...Jede
+ []
+
+[26]
+Overfull \hbox (5.61342pt too wide) in paragraph at lines 432--433
+[]\OT1/ppl/m/it/10 Ich bin schwarz. Ich bin tot und durch-drun-gen von der Er-d
+e zur^^?uckgekehrt,
+ []
+
+
+Overfull \hbox (2.01306pt too wide) in paragraph at lines 442--443
+\OT1/ppl/m/n/10 das Schul-buch ge-beugt und []uben Buch-sta-ben schrei-ben auf 
+Bl[]attern
+ []
+
+[27] [28] [29] [30]
+Overfull \hbox (4.55406pt too wide) in paragraph at lines 500--501
+\OT1/ppl/m/n/10 Es woh-nen an-de-re Leu-te mit in dem Haus, dass di-rekt an der
+ Haupt-
+ []
+
+[31]
+Overfull \hbox (4.35362pt too wide) in paragraph at lines 502--503
+\OT1/ppl/m/n/10 woh-nen. Sie m[]ussen nicht weit fah-ren und sie fin-det Jo-han
+-na k[]onnte
+ []
+
+[32] [33]
+Overfull \hbox (7.00308pt too wide) in paragraph at lines 534--535
+\OT1/ppl/m/n/10 ei-nem Al-ter, da Jun-gen und M[]adchen nicht selbst-verst[]and
+lich Freun-
+ []
+
+[34] [35]
+Overfull \hbox (0.2535pt too wide) in paragraph at lines 565--567
+\OT1/ppl/m/n/10 aus-bre-chen, un-si-cher und hilf-los ge-hal-ten vom Va-ter, oh
+-ne ein Wort
+ []
+
+[36] [37] [38
+
+] [39] [40] [41] [42]
+Overfull \hbox (1.75383pt too wide) in paragraph at lines 643--644
+\OT1/ppl/m/n/10 ob Jo-han-na nicht zur Verst[]arkung in die Bass-s-tim-me kom-m
+en kann.
+ []
+
+
+Overfull \hbox (7.96307pt too wide) in paragraph at lines 647--648
+\OT1/ppl/m/n/10 Blitz trifft sie, kein Don-ner er-schallt in ihr, der ihr ank[]
+undigen w[]urde,
+ []
+
+
+Overfull \hbox (5.51295pt too wide) in paragraph at lines 647--648
+\OT1/ppl/m/n/10 ein-an-der spie-len. Kein Blitz-schlag, sanft und lei-se w[]ach
+st ein Gef[]uhl,
+ []
+
+[43] [44]
+Overfull \hbox (8.52374pt too wide) in paragraph at lines 663--664
+[]\OT1/ppl/m/n/10 Dass in Tho-mas Schulcli-que M[]adchen sind, fin-det Jo-han-n
+a gef[]ahrlich
+ []
+
+[45]
+Overfull \hbox (1.63382pt too wide) in paragraph at lines 676--677
+[]\OT1/ppl/m/n/10 Hans kommt Jo-han-na vor, wie ihr Ge-heim-nis, er kann T[]ure
+n []offnen,
+ []
+
+
+Overfull \hbox (1.83319pt too wide) in paragraph at lines 676--677
+\OT1/ppl/m/n/10 die Tho-mas nicht []offnet, T[]uren hin-ter de-nen ei-ne wun-de
+r-vol-le Nah-
+ []
+
+[46]
+Overfull \hbox (33.69273pt too wide) in paragraph at lines 678--679
+\OT1/ppl/m/n/10 Eu-ryth-mie-pa-vil-li-on: []Kunst, Wis-sen-schaft, Re-li-gi-on\
+ ist das []ubergeordnete
+ []
+
+
+Overfull \hbox (14.82246pt too wide) in paragraph at lines 680--681
+[]\OT1/ppl/m/n/10 Mit Elan be-tritt sie den Mal-raum, der, mit vie-len Ober-lic
+h-tern best[]uckt,
+ []
+
+
+Overfull \hbox (22.95274pt too wide) in paragraph at lines 680--681
+\OT1/ppl/m/n/10 selbst-be-wuss-tes, mit h[]ubschem, run-den Ge-sicht aus-ge-sta
+t-te-tes M[]adchen
+ []
+
+
+Overfull \hbox (2.08336pt too wide) in paragraph at lines 682--683
+[]\OT1/ppl/m/n/10 Die letz-te Bank-rei-he, hin-ter den schwe-ren Dach-stuhl-bal
+-ken, w[]ahlen
+ []
+
+
+Overfull \hbox (10.4827pt too wide) in paragraph at lines 686--687
+\OT1/ppl/m/n/10 ge-rollt in gr[]unes Gras, liegt es, mit rot-brau-nem Fell, hel
+-lem B[]auchlein,
+ []
+
+
+Overfull \hbox (2.96326pt too wide) in paragraph at lines 686--687
+\OT1/ppl/m/n/10 dunk-ler, bl[]aulicher Schnau-ze und dunklen L[]aufen und schl[
+]aft fried-
+ []
+
+[47]
+Overfull \hbox (27.29361pt too wide) in paragraph at lines 688--689
+\OT1/ppl/m/n/10 on, []offnet sich; lang-sam, Far-ben, For-men str[]omen durch d
+ie Sch[]adeldecke
+ []
+
+
+Overfull \hbox (30.88272pt too wide) in paragraph at lines 688--689
+\OT1/ppl/m/n/10 aus ei-nem von ihr aus-ser-halb lie-gen-den, un-end-li-chen, lu
+f-tig durchl[]assigen
+ []
+
+[48] [49] [50] [51]
+Overfull \hbox (42.67252pt too wide) in paragraph at lines 731--733
+\OT1/ppl/m/n/10 und her ge-ris-sen, mit Eli-sa-beth wich-ti-ge, ge-hei-me M[]ad
+chentuschelgespr[]ache
+ []
+
+[52] [53]
+Overfull \hbox (22.28392pt too wide) in paragraph at lines 757--758
+\OT1/ppl/m/n/10 an ih-rem Ohr...[]Tu-ut!\ Ich leg auf, denkt Jo-han-na, ich kan
+n nicht...[]Tu-
+ []
+
+[54]
+Overfull \hbox (3.84369pt too wide) in paragraph at lines 761--762
+[][]\OT1/ppl/m/n/10 Hier ist Jo-han-na, kann ich bit-te Tho-mas spre-chen?\ Jo-
+han-na staunt,
+ []
+
+[55]
+Overfull \hbox (17.03291pt too wide) in paragraph at lines 774--778
+\OT1/ppl/m/n/10 legt, schnieft das Selbst-be-wusst-sein. Die Mut-ter kommt rein
+: []M[]ochtest
+ []
+
+[56]
+Overfull \hbox (3.8034pt too wide) in paragraph at lines 779--780
+[]\OT1/ppl/m/n/10 Johanna hat sich weit ver-kro-chen und sp[]urt nichts von den
+ n[]achsten
+ []
+
+[57]
+Overfull \hbox (3.8628pt too wide) in paragraph at lines 795--797
+\OT1/ppl/m/n/10 len Lip-pen k[]usst...Verboten! Al-ler strengs-tens ver-bo-ten.
+ Sonst, wer-
+ []
+
+
+Overfull \hbox (21.82318pt too wide) in paragraph at lines 795--797
+\OT1/ppl/m/n/10 ken. Ge-dan-ken, die krei-sen und krei-sen um den einen un-vers
+t[]andlichen,
+ []
+
+[58]
+Underfull \vbox (badness 4316) has occurred while \output is active []
+
+ [59]
+Overfull \hbox (1.46318pt too wide) in paragraph at lines 877--878
+\OT1/ppl/m/n/10 schent[]one, die Un-tert[]one. []Angste, Ag-gres-sio-nen und L[
+]ugen, S[]uchte
+ []
+
+[60]
+Overfull \hbox (7.06314pt too wide) in paragraph at lines 883--884
+\OT1/ppl/m/n/10 len-grund, be-ginnt wie al-le an-de-ren hin-ter ei-ner Mas-ke z
+u ver-schwin-
+ []
+
+[61]
+Overfull \hbox (6.00352pt too wide) in paragraph at lines 899--900
+\OT1/ppl/m/n/10 wie-der-keh-ren-den Tr[]aumen wei-ter-hin zei-gen wird, Lie-be?
+ Und wenn
+ []
+
+
+Overfull \hbox (2.33264pt too wide) in paragraph at lines 901--902
+\OT1/ppl/m/n/10 er-sehn-tes Zei-chen f[]allt vom Him-mel, kei-ne ge-heim-nis-vo
+l-len Zuf[]alle
+ []
+
+
+Overfull \hbox (2.79346pt too wide) in paragraph at lines 903--904
+\OT1/ppl/m/n/10 kro-kos-mos, Rein-kar-na-ti-ons-leh-ren und der Glau-be fin-den
+ einen zen-
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [62]
+[63]
+Overfull \hbox (6.1632pt too wide) in paragraph at lines 938--939
+\OT1/ppl/m/n/10 ren-menschen auff[]uhren? Ha-be ich des-halb Angst, viel zu vie
+l Angst? 
+ []
+
+[64]
+Overfull \hbox (21.67308pt too wide) in paragraph at lines 954--955
+[]\OT1/ppl/m/n/10 Die Auff[]uhrungen f[]uhren sie in die Chris-ten-ge-mein-scha
+ft. Das Geb[]aude
+ []
+
+
+Overfull \hbox (1.34357pt too wide) in paragraph at lines 956--958
+[]\OT1/ppl/m/n/10 Die M[]adchen stel-len sich, den schwe-ren Al-tar aus Be-ton 
+im R[]ucken,
+ []
+
+
+Overfull \hbox (9.51349pt too wide) in paragraph at lines 956--958
+\OT1/ppl/m/n/10 Blick schweift zur De-cke. []Uber dem Ein-gang tref-fen sich zw
+ei schr[]age
+ []
+
+
+Overfull \hbox (6.74312pt too wide) in paragraph at lines 956--958
+\OT1/ppl/m/n/10 Fl[]achen, und, []uber einen klei-nen Ab-satz, en-den sie in ei
+-nem F[]unfeck,
+ []
+
+[65] [66]
+Overfull \hbox (0.98347pt too wide) in paragraph at lines 982--983
+\OT1/ppl/m/n/10 zu tun, auf die wi-der-spr[]uchlichen [][]Ausserungen\ zu rea-g
+ie-ren und
+ []
+
+[67]
+Overfull \hbox (6.02347pt too wide) in paragraph at lines 993--994
+\OT1/ppl/m/n/10 wer-ten-den Bli-cke von Jo-han-nas Klas-sen-ka-me-ra-den las-se
+n sie schnell
+ []
+
+
+Overfull \hbox (2.58315pt too wide) in paragraph at lines 999--1001
+\OT1/ppl/m/n/10 Wort []uber Jo-han-nas Auff[]uhrung, statt-des-sen bit-ters-te 
+Vorw[]urfe von
+ []
+
+[68]
+Overfull \hbox (26.48326pt too wide) in paragraph at lines 1005--1006
+[]\OT1/ppl/m/n/10 Johanna soll in der an-de-ren Be-set-zung die zwei-te ausw[]a
+rtige Auff[]uhrung
+ []
+
+
+Overfull \hbox (13.7935pt too wide) in paragraph at lines 1005--1006
+\OT1/ppl/m/n/10 und der Schweiss l[]auft un-ter dem Kost[]um in B[]achen. Mit k
+r[]achzender,
+ []
+
+[69] [70]
+Overfull \hbox (2.95366pt too wide) in paragraph at lines 1029--1030
+\OT1/ppl/m/n/10 und muss al-le ima-gin[]aren Mus-keln an-span-nen, um un-ter de
+n T[]uren
+ []
+
+[71]
+Overfull \hbox (1.05344pt too wide) in paragraph at lines 1035--1036
+[]\OT1/ppl/m/n/10 Viel mehr er-schreckt ist sie, als sie ei-nes Ta-ges an Tho-m
+as ge[]offneter
+ []
+
+[72] [73]
+Underfull \vbox (badness 4217) has occurred while \output is active []
+
+ [74]
+Overfull \hbox (2.08333pt too wide) in paragraph at lines 1126--1127
+[]\OT1/ppl/m/it/10 Du tust mass-los weh und ich will die-sen Schmerz nicht f^^?
+uhlen
+ []
+
+[75] [76]
+Overfull \hbox (3.20345pt too wide) in paragraph at lines 1166--1167
+[]\OT1/ppl/m/n/10 Johanna kann nicht schla-fen. Sie setzt sich in der hei-mat-l
+i-chen Weih-
+ []
+
+
+Overfull \hbox (2.17348pt too wide) in paragraph at lines 1168--1169
+[]\OT1/ppl/m/n/10 Dann sieht sie Tho-mas, er steht in die-sem lee-ren, ver-las-
+se-nen Raum,
+ []
+
+[77] [78] [79]
+Overfull \hbox (5.84325pt too wide) in paragraph at lines 1241--1243
+\OT1/ppl/m/it/10 mir, haar-ge-nau, dein Ge-sicht. Wo ich nor-ma-ler-wei-se nur 
+weiss,
+ []
+
+[80]
+Overfull \hbox (2.4041pt too wide) in paragraph at lines 1268--1270
+[]\OT1/ppl/m/it/10 Angst, Angst, Angst. Wo ich hin-se-he bei dir Angst, oh Sche
+is-
+ []
+
+
+Overfull \hbox (2.11327pt too wide) in paragraph at lines 1275--1276
+[]\OT1/ppl/m/it/10 Du l^^?ahmst mich, ich f^^?uhle nur Angst, DEI-NE Angst, Sch
+eiss-
+ []
+
+[81]
+Overfull \hbox (2.10344pt too wide) in paragraph at lines 1308--1309
+\OT1/ppl/m/n/10 Jahresarbeiten wol-len ge-schrie-ben wer-den. Jo-han-na freut s
+ich, denn
+ []
+
+[82]
+Overfull \hbox (4.80354pt too wide) in paragraph at lines 1318--1319
+\OT1/ppl/m/n/10 oh-ne die Ma-te-rie in ei-nem an-de-ren Raum be-wegt. Ein in-ne
+-rer Raum,
+ []
+
+[83]
+Overfull \hbox (0.62335pt too wide) in paragraph at lines 1324--1325
+\OT1/ppl/m/n/10 wan-dern, su-chen sich einen []ahnlichen Platz, dies-mal f[]uge
+n sie spie-
+ []
+
+[84]
+Overfull \hbox (5.4434pt too wide) in paragraph at lines 1337--1338
+\OT1/ppl/m/n/10 die Far-ben tan-zen las-sen. Wei-ter, wie-der Vi-val-di, Co-rel
+-li, kla-re Struk-
+ []
+
+[85] [86]
+Overfull \hbox (11.37325pt too wide) in paragraph at lines 1364--1365
+\OT1/ppl/m/n/10 sie den rich-ti-gen Na-men tra-gen. Jo-han-na schreibt. Kei-ne 
+Tr[]aumereien,
+ []
+
+
+Overfull \hbox (20.94312pt too wide) in paragraph at lines 1366--1367
+[]\OT1/ppl/m/n/10 L[]angst ist klar, was sie emp-fin-det, ab-ge-se-hen von den 
+Gef[]uhlskapriolen,
+ []
+
+[87]
+Overfull \hbox (0.75288pt too wide) in paragraph at lines 1376--1377
+[]\OT1/ppl/m/n/10 Johanna ver-liert die Ge-duld, was ihr nichts hilft, weil es 
+die Gef[]uhle
+ []
+
+[88] [89]
+Overfull \hbox (8.22295pt too wide) in paragraph at lines 1403--1404
+\OT1/ppl/m/it/10 kom-men m^^?ogen. Wer n^^?ahert sich frei-wil-lig ei-ner hin-t
+erh^^?altigen,
+ []
+
+
+Overfull \hbox (1.07323pt too wide) in paragraph at lines 1403--1404
+\OT1/ppl/m/it/10 b^^?osen Ge-stalt? Ich bin zu tiefst versch^^?amt, f^^?uhle de
+n Schmerz,
+ []
+
+[90]
+Overfull \hbox (1.83337pt too wide) in paragraph at lines 1405--1406
+[]\OT1/ppl/m/it/10 Thomas hat kei-ne Lust mir sein []In-ne-res zu of-fen-ba-ren
+\, nein,
+ []
+
+[91]
+Overfull \hbox (6.7231pt too wide) in paragraph at lines 1420--1421
+\OT1/ppl/m/it/10 wie du sagst, []bom-bar-die-ren\. Aber den un-er-mess-li-chen 
+Reich-
+ []
+
+
+Overfull \hbox (3.54381pt too wide) in paragraph at lines 1422--1423
+[]\OT1/ppl/m/it/10 Ich bin wild und un-gez^^?ahmt, aber dar-aus kann ich dich f
+^^?uhlen,
+ []
+
+[92] [93]
+Overfull \hbox (1.9939pt too wide) in paragraph at lines 1456--1457
+\OT1/ppl/m/n/10 sche tr[]age an die h[]olzerne Um-ran-dung. M[]owen und En-ten 
+schwim-
+ []
+
+[94]
+Overfull \hbox (1.1338pt too wide) in paragraph at lines 1474--1476
+[]\OT1/ppl/m/n/10 Ihre Ka-me-ra-din-nen ha-ben da-mit kei-ne M[]uhe. Wenn ein m
+[]annliches
+ []
+
+[95]
+Overfull \hbox (15.09377pt too wide) in paragraph at lines 1481--1482
+\OT1/ppl/m/n/10 sicht und schwar-ze Haa-re, einen gros-sen Bu-sen und []ubersch
+[]aumendes
+ []
+
+
+Overfull \hbox (8.35277pt too wide) in paragraph at lines 1483--1484
+\OT1/ppl/m/n/10 sich Wan-der-str[]umpfe, weil es die sp[]ater be-lieb-ten Over-
+knee-str[]umpfe
+ []
+
+[96]
+Overfull \hbox (0.52301pt too wide) in paragraph at lines 1485--1486
+\OT1/ppl/m/n/10 Schicht-wei-se mit ver-schie-de-nen Hen-nat[]onen gef[]arbt. Ab
+er schmin-
+ []
+
+
+Overfull \hbox (3.90279pt too wide) in paragraph at lines 1489--1490
+\OT1/ppl/m/n/10 gleichm[]assig braun-beige be-to-niert aus dem Ge-sicht, das he
+ll-h[]autig,
+ []
+
+
+Underfull \vbox (badness 4132) has occurred while \output is active []
+
+ [97]
+Overfull \hbox (0.61314pt too wide) in paragraph at lines 1504--1505
+[]\OT1/ppl/m/n/10 uber das R[]uckgrat ge-stri-chen. Da-bei glau-ben sie nicht a
+n so`n Zeug.
+ []
+
+[98]
+Overfull \hbox (7.03287pt too wide) in paragraph at lines 1512--1513
+\OT1/ppl/m/n/10 lan-gen St[]ocken be-wehrt, ste-hen hell gleis-sen-den, weis-se
+n ge-gen[]uber.
+ []
+
+
+Overfull \hbox (5.78293pt too wide) in paragraph at lines 1512--1513
+\OT1/ppl/m/n/10 schei-nen gleich stark zu sein, wo ei-ne lich-te Ge-stalt vor e
+i-ner schwar-
+ []
+
+
+Overfull \hbox (11.8128pt too wide) in paragraph at lines 1512--1513
+\OT1/ppl/m/n/10 zen zur[]uckweicht, da be-dr[]angt ein St[]uck wei-ter ei-ne li
+ch-te die dunkle.
+ []
+
+
+Overfull \hbox (3.57356pt too wide) in paragraph at lines 1514--1515
+[]\OT1/ppl/m/n/10 Als sie die Au-gen []offnet in der Hoff-nung, dass der Spuk v
+er-schwun-
+ []
+
+
+Overfull \hbox (18.78618pt too wide) in paragraph at lines 1537--1537
+[]\OT1/cmr/bx/n/14.4 Il fi-co II (Lan-des-mu-se-um Schleswig-Holstein,
+ []
+
+
+Overfull \hbox (3.57394pt too wide) in paragraph at lines 1542--1543
+\OT1/ppl/m/n/10 um zu be-su-chen und Jo-han-na hat sich vor ge-nom-men, dem Sch
+reck-
+ []
+
+[99]
+Overfull \hbox (2.15353pt too wide) in paragraph at lines 1546--1547
+[]\OT1/ppl/m/n/10 Abends im Bett kom-men sie. Schwar-ze, ver-mo-der-te mit Per-
+ga-ment-
+ []
+
+
+Overfull \hbox (0.76295pt too wide) in paragraph at lines 1548--1549
+\OT1/ppl/m/n/10 Pe-da-len tre-ten, ver-sucht sie ver-zwei-felt die Wahn-bil-der
+ in den Kopf
+ []
+
+[100]
+Overfull \hbox (6.5301pt too wide) in paragraph at lines 1576--1576
+[][]\OT1/cmr/bx/it/14.4 Gesang der Geis-ter []uber dem Was-
+ []
+
+[101]
+Overfull \hbox (19.85289pt too wide) in paragraph at lines 1597--1598
+\OT1/ppl/m/it/10 an-de-res wie-der-um sieht die Strah-len auf sich zu str^^?ome
+n.Demnach
+ []
+
+[102] [103]
+Overfull \hbox (6.92293pt too wide) in paragraph at lines 1630--1631
+[]\OT1/ppl/m/it/10 Heute ist der Stich-tag f^^?ur mei-nen Mond-kno-ten, aber mi
+r gef^^?allt
+ []
+
+[104] [105]
+Overfull \hbox (8.0236pt too wide) in paragraph at lines 1670--1671
+\OT1/ppl/m/it/10 ma-chen, Eso-te-ri-ker w^^?urden es []Pr^^?ufung\ nen-nen, dan
+n schlep-
+ []
+
+[106] [107] [108
+
+] [109] [110]
+Overfull \hbox (0.33275pt too wide) in paragraph at lines 1727--1728
+\OT1/ppl/m/n/10 keit der letz-ten alp-traum-haf-ten Be-geg-nung mit ei-nem Ver-
+tre-ter die-
+ []
+
+
+Overfull \hbox (4.13254pt too wide) in paragraph at lines 1727--1728
+\OT1/ppl/m/n/10 bei ih-rem Heil-prak-ti-ker si-cher auf-ge-ho-ben. Aber der Zei
+t-punkt schi-
+ []
+
+[111]
+Overfull \hbox (5.49365pt too wide) in paragraph at lines 1739--1740
+\OT1/ppl/m/n/10 Jo-han-na sich vor ih-rem Sohn sch[]amte und bem[]uhte den Kurz
+-schluss
+ []
+
+
+Overfull \hbox (11.32336pt too wide) in paragraph at lines 1741--1743
+\OT1/ppl/m/n/10 zi-gen Raum in dem ein schma-les ho-hes Re-gal, ein Fens-ter, e
+in Schreib-
+ []
+
+
+Overfull \hbox (9.57346pt too wide) in paragraph at lines 1750--1751
+[]\OT1/ppl/m/n/10 Johanna beug-te sich in-ter-es-siert vor. []Das\, er zeig-te 
+auf das K[]astchen
+ []
+
+
+Overfull \hbox (1.03368pt too wide) in paragraph at lines 1750--1751
+\OT1/ppl/m/n/10 M[]annern ist das an-ders, die sind bis ins ho-he Al-ter zeu-gu
+ngsf[]ahig.\ 
+ []
+
+[112]
+Overfull \hbox (3.42343pt too wide) in paragraph at lines 1756--1757
+[]\OT1/ppl/m/n/10 Die Un-ter-su-chung war pr[]azise, grif-fig, rou-ti-niert, wa
+s ihr den Schre-
+ []
+
+
+Overfull \hbox (6.54483pt too wide) in paragraph at lines 1766--1767
+[][]\OT1/ppl/m/n/10 Was ist das?\ Jo-han-na reisst sich aus ih-ren Ge-dan-ken [
+]Was?\ []Das!\
+ []
+
+[113] [114]
+Overfull \hbox (60.3818pt too wide) in paragraph at lines 1784--1785
+\OT1/ppl/m/n/10 und selbst auf-ge-stellt, bis-her, um Fa-mi-li-enk-no-ten zu en
+t-wir-ren. Gl[]ucklicherweise
+ []
+
+
+Overfull \hbox (2.87347pt too wide) in paragraph at lines 1793--1794
+\OT1/ppl/m/n/10 zum Her-ren-haus Bor-g-horst. Die Haus-her-rin Cor-ne-lia ist e
+i-ne Freun-
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [115]
+[116]
+Overfull \hbox (6.03333pt too wide) in paragraph at lines 1804--1805
+\OT1/ppl/m/n/10 ren stark und si-cher hiel-ten, ein Herz, das die Ur-uren-ke-li
+n sch[]utzend
+ []
+
+
+Overfull \hbox (2.27347pt too wide) in paragraph at lines 1804--1805
+\OT1/ppl/m/n/10 ernst und streng auf sie. Ein kri-ti-scher Blick, dem Jo-han-na
+ mit M[]uhe
+ []
+
+[117]
+Overfull \hbox (1.4436pt too wide) in paragraph at lines 1806--1808
+\OT1/ppl/m/n/10 hal-ten ab? Wie kommt es, dass sie, ob-wohl mit ei-nem Frau-enk
+[]orper,
+ []
+
+[118]
+Overfull \hbox (2.94328pt too wide) in paragraph at lines 1816--1817
+\OT1/ppl/m/n/10 gef[]uhlvollen Ta-gen ver-schwand der Schmerz und der Kno-ten f
+[]uhlte
+ []
+
+[119]
+Overfull \hbox (1.89325pt too wide) in paragraph at lines 1832--1833
+\OT1/ppl/m/n/10 der an-ge-neh-me Teil, Bri-git-ta hat ei-ne ent-span-nen-de Tra
+um-rei-se vor-
+ []
+
+[120]
+Overfull \hbox (1.09349pt too wide) in paragraph at lines 1841--1842
+[]\OT1/ppl/m/n/10 Hinter ei-ner schwe-ren, schwar-zen Holzt[]ur ist es: Gol-dig
+, der Raum.
+ []
+
+[121]
+Overfull \hbox (4.33336pt too wide) in paragraph at lines 1859--1860
+[]\OT1/ppl/m/n/10 Thomas! Nach all den Jah-ren, ein-ge-bet-tet wie ein Kind in 
+der Schatz-
+ []
+
+
+Overfull \hbox (20.74294pt too wide) in paragraph at lines 1865--1865
+[]\OT1/cmr/bx/n/14.4 Cosimo (Flo-renz ca. 1400, Eckernf[]orde, 2007) 
+ []
+
+
+Overfull \hbox (30.45326pt too wide) in paragraph at lines 1870--1871
+\OT1/ppl/m/n/10 den-de Mu-sik: Fi-ren-ze, ...Cosimo, Pa-ter Pa-triae, Fra An-ge
+-li-co, ...Giovanni
+ []
+
+
+Overfull \hbox (1.99348pt too wide) in paragraph at lines 1870--1871
+\OT1/ppl/m/n/10 de Me-di-ci, Lo-ren-zo, der Pr[]achtige,...Michelangelo, ...Bru
+nelleschi,
+ []
+
+[122]
+Overfull \hbox (15.47292pt too wide) in paragraph at lines 1885--1887
+\OT1/ppl/m/n/10 ihr schma-les, sanf-tes, fest ge-schnit-te-nes Ge-sicht um-rah-
+men, be-herrscht
+ []
+
+
+Overfull \hbox (44.8326pt too wide) in paragraph at lines 1888--1889
+[]\OT1/ppl/m/n/10 Schneller ka-men die Bil-der, ge-folgt von Ger[]auschen, Ger[
+]uchen, Ber[]uhrungen,
+ []
+
+[123]
+Overfull \hbox (3.01347pt too wide) in paragraph at lines 1892--1893
+[]\OT1/ppl/m/n/10 Weitere Bil-der wach-sen: K[]unstlerwerkst[]atten, Far-ben, J
+o-han-na wird
+ []
+
+
+Overfull \hbox (0.62297pt too wide) in paragraph at lines 1904--1905
+\OT1/ppl/m/n/10 nunft, zur Vor-sicht und er-liegt schliess-lich ih-rer ge-mein-
+sa-men Lust. 
+ []
+
+[124]
+Overfull \hbox (0.99373pt too wide) in paragraph at lines 1914--1915
+[]\OT1/ppl/m/n/10 Thomas war ih-re Ge-lieb-te aus ei-nem an-de-ren Le-ben, Jo-h
+an-na konn-
+ []
+
+
+Overfull \hbox (9.73283pt too wide) in paragraph at lines 1916--1918
+[]\OT1/ppl/m/n/10 Aber die-ser Schmerz, den sie selbst in die-ser Zeit ge-sp[]u
+rt hat-te...Eine
+ []
+
+[125] [126]
+Overfull \hbox (3.43263pt too wide) in paragraph at lines 1942--1943
+\OT1/ppl/m/n/10 ver-lau-fen? Die Un-si-cher-heit ih-ren ei-ge-nen Gef[]uhlen ge
+-gen[]uber, hat-
+ []
+
+
+Overfull \hbox (2.11304pt too wide) in paragraph at lines 1955--1956
+\OT1/ppl/m/n/10 Johanna, die mo-nat-lich in Bor-g-horst zum Fa-mi-li-en-stel-le
+n geht, stellt
+ []
+
+[127]
+Overfull \hbox (20.23337pt too wide) in paragraph at lines 1963--1964
+\OT1/ppl/m/n/10 wis-sen wen, aber Jo-han-na m[]ochte die Tho-mas-ge-schich-te n
+icht erz[]ahlen,
+ []
+
+[128] [129]
+Overfull \hbox (1.37318pt too wide) in paragraph at lines 1987--1988
+\OT1/ppl/m/n/10 wie-der-gek[]aute, zer-mah-le-ne und neu ge-fun-de-ne, nie-der-
+schmet-tern-
+ []
+
+
+Overfull \hbox (2.18353pt too wide) in paragraph at lines 1989--1990
+\OT1/ppl/m/n/10 dass die an-de-ren, die nichts von ih-ren vor-he-ri-gen Er-leb-
+nis-sen wuss-
+ []
+
+[130]
+Overfull \hbox (1.5738pt too wide) in paragraph at lines 1996--1997
+\OT1/ppl/m/n/10 sei wahr: Flo-renz, die auf-stre-ben-den Me-di-ci, dann w[]ahrt
+e die Ewig-
+ []
+
+
+Overfull \hbox (0.40332pt too wide) in paragraph at lines 2003--2005
+\OT1/ppl/m/n/10 Handlungs- und Wil-lens-frei-heit al-lein, kann die See-le er-f
+ah-ren, sich
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [131]
+[132]
+Overfull \hbox (7.1033pt too wide) in paragraph at lines 2039--2040
+[]\OT1/ppl/m/n/10 Warum? Sie hat-te ihr In-ne-res auf-ger[]aumt, hat-te al-les 
+zu-recht ger[]uckt,
+ []
+
+
+Overfull \hbox (3.2749pt too wide) in paragraph at lines 2041--2042
+\OT1/ppl/m/n/10 schen zu m[]ussen, wo..., wer..., was..., wie..., wann..., waru
+m...,
+ []
+
+
+Overfull \hbox (11.8734pt too wide) in paragraph at lines 2043--2044
+\OT1/ppl/m/n/10 Mus-keln, Haut und W[]arme. Die lin-ke Sei-te ist ver-mo-dert. 
+Wo Muskel-
+ []
+
+
+Overfull \hbox (7.64288pt too wide) in paragraph at lines 2045--2046
+\OT1/ppl/m/n/10 Phan-ta-sie und Ima-gi-na-tion-kr[]afte rei-chen nicht die lin-
+ke K[]orperh[]alfte
+ []
+
+
+Overfull \hbox (6.69348pt too wide) in paragraph at lines 2047--2049
+[]\OT1/ppl/m/n/10 Sie will ums ver-re-cken nicht zum Arzt, der Schmerz ist zu g
+ross...sie
+ []
+
+[133]
+Overfull \hbox (22.31279pt too wide) in paragraph at lines 2058--2059
+\OT1/ppl/m/n/10 schrei-ben. Der schickt sie zu ei-ner Gyn[]akologin, die Sanf-t
+e,Selbstsichere,
+ []
+
+
+Overfull \hbox (14.73242pt too wide) in paragraph at lines 2079--2081
+\OT1/ppl/m/n/10 Zerbrechlich, ei-ne Wir-bels[]aule ist zer-brech-lich, ein klei
+-ner Knick,...ein
+ []
+
+
+Overfull \hbox (2.01321pt too wide) in paragraph at lines 2079--2081
+\OT1/ppl/m/n/10 Ge-hirn da-zwi-schen, wei-cher Brei, m[]urbe ge-knirscht, ringt
+ nach Blut
+ []
+
+[134]
+Overfull \hbox (7.11345pt too wide) in paragraph at lines 2082--2083
+[]\OT1/ppl/m/n/10 Die Ar-me, der Brust-korb al-les dar-an geh[]angt, schmerz-be
+-haf-tet, nutz-
+ []
+
+
+Overfull \hbox (0.8533pt too wide) in paragraph at lines 2088--2089
+[]\OT1/ppl/m/n/10 Kreuzbein, die Stel-le, die ge-schun-den, zer-schla-gen, ge-b
+ro-chen wur-
+ []
+
+
+Overfull \hbox (8.5435pt too wide) in paragraph at lines 2092--2093
+[]\OT1/ppl/m/n/10 Welch per-fi-des Wech-sel-spiel, denkt Jo-han-na, du wirst mi
+t an ges[]agter
+ []
+
+[135]
+Overfull \hbox (3.38347pt too wide) in paragraph at lines 2102--2103
+\OT1/ppl/m/n/10 von die-ser und je-ner gu-tes geh[]ort.\ Sagt Jo-han-na bei ih-
+rem n[]achsten
+ []
+
+
+Overfull \hbox (9.38359pt too wide) in paragraph at lines 2102--2103
+\OT1/ppl/m/n/10 Mo-ment schim-mert doch Ver-zweif-lung, Re-si-gna-ti-on aus ih-
+nen. Okay,
+ []
+
+
+Overfull \hbox (11.47406pt too wide) in paragraph at lines 2104--2106
+\OT1/ppl/m/n/10 Jo-han-na kom-men. []Sag` mal, warum geht es dir im-mer noch sc
+hlecht\
+ []
+
+[136]
+Overfull \hbox (2.6028pt too wide) in paragraph at lines 2113--2114
+\OT1/ppl/m/n/10 als al-lein-er-zie-hen-de Mut-ter nicht k[]undigen und ei-ne Sp
+er-rung beim
+ []
+
+[137]
+Overfull \hbox (19.11284pt too wide) in paragraph at lines 2134--2135
+[]\OT1/ppl/m/n/10 Rehaklinik, ei-ne alt-muf-fig, frisch []olig duf-ten-de Ein-g
+angs-hal-le empf[]angt
+ []
+
+[138]
+Overfull \hbox (10.93259pt too wide) in paragraph at lines 2146--2147
+\OT1/ppl/m/n/10 zel-psy-cho-the-ra-pie, Cra-nio-sa-kral-the-ra-pie, Hei-leu-ryt
+h-mie in der Grup-
+ []
+
+[139]
+Overfull \hbox (5.57298pt too wide) in paragraph at lines 2154--2155
+\OT1/ppl/m/n/10 schwarz-russige, gelb-schwefelige, vio-let-te Flo-ri-de. Ei-ne 
+Schatz-kam-
+ []
+
+[140]
+Overfull \hbox (4.25368pt too wide) in paragraph at lines 2173--2174
+\OT1/ppl/m/n/10 Por-tio-nen ver-dr[]uckend, wie-der an Sub-stanz ge-winnt. Von 
+den []Kra-
+ []
+
+
+Overfull \hbox (1.604pt too wide) in paragraph at lines 2175--2176
+\OT1/ppl/m/n/10 Ma-ri-as Nach-bar, mehr noch []Freun-din\ und WG-Mitbewohner, d
+er
+ []
+
+[141]
+Overfull \hbox (1.51376pt too wide) in paragraph at lines 2183--2184
+[]\OT1/ppl/m/n/10 Zug-fahrt des Schick-sals\ gibt Gas, be-vor sie im Bahn-hof a
+n-kommt.
+ []
+
+[142]
+Overfull \hbox (2.38356pt too wide) in paragraph at lines 2195--2196
+\OT1/ppl/m/n/10 Schliess-lich kann Jo-han-na am Klang von Ma-ri-as Stim-me un-t
+er-schei-
+ []
+
+
+Overfull \hbox (4.89307pt too wide) in paragraph at lines 2195--2196
+\OT1/ppl/m/n/10 den, wenn sie ei-ne Mei-nung ver-tritt, die sie von Si-mon []ub
+ernommen
+ []
+
+
+Overfull \hbox (9.02289pt too wide) in paragraph at lines 2197--2198
+\OT1/ppl/m/n/10 kurz Si-mons Schul-ter und erschrickt im glei-chen Mo-ment, sie
+ ber[]uhrt
+ []
+
+
+Overfull \hbox (21.6531pt too wide) in paragraph at lines 2197--2198
+\OT1/ppl/m/n/10 nie je-man-den, wenn es sich ver-mei-den l[]asst und die-se lei
+ch-te Ber[]uhrung
+ []
+
+[143] [144] [145]
+Overfull \hbox (0.21347pt too wide) in paragraph at lines 2243--2244
+[]\OT1/ppl/m/n/10 Johannas Zeit in Ba-den-wei-ler ist bald um...Es heisst Ab-sc
+hied neh-
+ []
+
+[146]
+Overfull \hbox (0.49359pt too wide) in paragraph at lines 2251--2252
+\OT1/ppl/m/n/10 geb[]uhrend Kaf-fee und Ku-chen be-sie-gelt. Hans, Ma-ri-as Noc
+h-freund
+ []
+
+
+Underfull \vbox (badness 1325) has occurred while \output is active []
+
+ [147]
+[148]
+Overfull \hbox (3.56352pt too wide) in paragraph at lines 2276--2277
+\OT1/ppl/m/n/10 ver-gra-ben in den Kno-chen, im R[]uckenmark, in den Wir-beln s
+chlum-
+ []
+
+[149] [150]
+Overfull \hbox (0.10362pt too wide) in paragraph at lines 2290--2292
+\OT1/ppl/m/n/10 ein-fach das An-ders, weil das An-ders nicht []uberall ver-stan
+-den wird,
+ []
+
+
+Overfull \hbox (12.9931pt too wide) in paragraph at lines 2295--2296
+\OT1/ppl/m/n/10 Punkt: Hat je-mand ein An-ders, gibt es in dem An-ders ei-ne []
+Ahnlichkeit
+ []
+
+[151
+
+]
+Overfull \hbox (0.34329pt too wide) in paragraph at lines 2307--2308
+\OT1/ppl/m/n/10 trau-ens-voll zei-gen. Und nicht zu ver-ges-sen: Mei-ne ei-ge-n
+e, m[]uhsam
+ []
+
+[152] [153
+
+] [154]
+Overfull \hbox (2.04335pt too wide) in paragraph at lines 2327--2328
+\OT1/ppl/m/it/10 ger Grund ist, dass mei-ne Ge-schich-te eng bio-gra-phisch erz
+^^?ahlt
+ []
+
+[155] [156] [157] [158]
+Overfull \hbox (14.07294pt too wide) in paragraph at lines 2511--2513
+\OT1/ppl/m/it/10 ders oder gest^^?ort ist. Ich ha-be mich viel mit Au-tis-mus b
+esch^^?aftigt.
+ []
+
+[159] [160] [161] [162] [163
+
+] (./RINASCIMENTO.aux) ) 
+Here is how much of TeX's memory you used:
+ 3354 strings out of 495021
+ 40353 string characters out of 1181035
+ 121759 words of memory out of 3000000
+ 6531 multiletter control sequences out of 15000+50000
+ 7804 words of font info for 24 fonts, out of 3000000 for 9000
+ 28 hyphenation exceptions out of 8191
+ 30i,6n,37p,2113b,352s stack positions out of 5000i,500n,10000p,200000b,50000s
+{/usr/share/texmf-texlive/fonts/enc/dvips/base/8r.enc}<
+/usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/
+texmf-texlive/fonts/type1/public/amsfonts/cm/cmbxti10.pfb></usr/share/texmf-tex
+live/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-texlive/fonts/t
+ype1/urw/palatino/uplr8a.pfb></usr/share/texmf-texlive/fonts/type1/urw/palatino
+/uplri8a.pfb>
+Output written on RINASCIMENTO.pdf (163 pages, 1524009 bytes).
+PDF statistics:
+ 547 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 6 words of extra memory for PDF output out of 10000 (max. 10000000)
+

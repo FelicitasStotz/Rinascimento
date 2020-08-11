@@ -1,0 +1,60 @@
+\select@language {ngerman}
+\contentsline {chapter}{Prolog}{5}
+\contentsline {part}{Teil I}{9}
+\contentsline {section}{Il paradiso I(Oldendorf 1975-1977)}{9}
+\contentsline {section}{La morte I}{10}
+\contentsline {section}{Il paradiso II}{11}
+\contentsline {section}{Humunculus}{12}
+\contentsline {section}{Credo I}{13}
+\contentsline {section}{La memoria}{14}
+\contentsline {section}{Il paradiso III}{14}
+\contentsline {section}{La morte II}{15}
+\contentsline {section}{Gnomus}{16}
+\contentsline {section}{Il uomo nero}{17}
+\contentsline {section}{Credo II}{19}
+\contentsline {section}{La principessa I}{19}
+\contentsline {section}{Il fico I (Landesmuseum Schleswig-Holstein, Schloss Gottorf, Raum der Moorleichen, 1977)}{26}
+\contentsline {section}{Il mondo delli altri I (Dorf, 1977)}{27}
+\contentsline {section}{Andorra I}{32}
+\contentsline {section}{Gli Amici}{34}
+\contentsline {section}{La morte III (Oldendorf, 1982)}{36}
+\contentsline {part}{Teil II}{41}
+\contentsline {section}{Spruch}{41}
+\contentsline {section}{Liebeslied}{41}
+\contentsline {section}{Eene, menee Miste, es\dots (1985-1986)}{42}
+\contentsline {section}{Karmaloka I (18.11.1986)}{53}
+\contentsline {section}{Nachkl\IeC {\"a}nge Beethovenscher Musik}{58}
+\contentsline {section}{La solitudine (1986-1991)}{60}
+\contentsline {section}{La visione}{63}
+\contentsline {section}{Andorra II}{66}
+\contentsline {section}{Il gioco}{70}
+\contentsline {section}{Galerienweg (Pl\IeC {\"o}n, 15.7.1988)}{72}
+\contentsline {section}{ Bella Italia I( Ravenna)}{73}
+\contentsline {section}{Credo III (24.12.1988)}{75}
+\contentsline {section}{l`aspeto dall`interno }{82}
+\contentsline {section}{Karmaloka II (11.7.1989)}{87}
+\contentsline {section}{La principessa II}{95}
+\contentsline {section}{Credo IV (1990)}{98}
+\contentsline {section}{Il fico II (Landesmuseum Schleswig-Holstein, Schloss Gottorf, Raum der Moorleichen, 1990)}{100}
+\contentsline {section}{La Silfide ( 7.11.1989)}{101}
+\contentsline {section}{Gesang der Geister \IeC {\"u}ber dem Wasser}{101}
+\contentsline {section}{Il nodo della luna I (Januar 1990)}{103}
+\contentsline {part}{Teil III}{111}
+\contentsline {section}{Welt \& Mensch \IeC {\textendash } Friedenstanz}{111}
+\contentsline {section}{Voodoo I (Eckernf\IeC {\"o}rde 2006)}{111}
+\contentsline {section}{Il fico III, Aufstellung I (Borghorst, 2006)}{116}
+\contentsline {section}{Eene, menee, miste, es \dots II (Borghorst 2007)}{119}
+\contentsline {section}{Cosimo (Florenz ca. 1400, Eckernf\IeC {\"o}rde, 2007)}{122}
+\contentsline {section}{Karmaloka III (Eckernf\IeC {\"o}rde 2007)}{124}
+\contentsline {section}{La investigazione I (Eckernf\IeC {\"o}rde 2007)}{126}
+\contentsline {section}{La investigazione II, Aufstellung II (Borghorst, 2007)}{127}
+\contentsline {section}{La delizia (Eckernf\IeC {\"o}rde, 2007)}{130}
+\contentsline {section}{Le fantasticherie (Eckernf\IeC {\"o}rde 2007)}{132}
+\contentsline {section}{Voodoo II (Eckernf\IeC {\"o}rde 2008)}{133}
+\contentsline {section}{Atlas (Eckernf\IeC {\"o}rde, 2008)}{134}
+\contentsline {section}{ Weltenmitternachtsstunde (Badenweiler, 2008)}{138}
+\contentsline {section}{Il nodo della luna II (badenweiler, 2008)}{140}
+\contentsline {section}{Il fico IV (Badenweiler, 2008)}{148}
+\contentsline {chapter}{Epilog}{151}
+\contentsline {part}{Teil IV}{155}
+\contentsline {section}{Wieso, Weshalb, Warum. Interview mit Johanna Mollydottir}{155}
